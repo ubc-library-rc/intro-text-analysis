@@ -14,9 +14,11 @@ Part 1
 
 - how to use Voyant and get a grasp on what's available (how to use it)
 - how to think differently about texts with tools such as Voyant (why use it)
+- There is a hosted version of Voyant Tools (https://voyant-tools.org)
+but we very strongly encourage anyone following along to download and launch the desktop version. 
 
 Part 2
 
 - Introduction to NLP Theory
 - The NLTK Corpus (Tokenization, Lemmatization, and Stemming)
-
+- For Python, please login into UBC Syzygy - https://ubc.syzygy.ca/
