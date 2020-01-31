@@ -1,2 +1,4 @@
-# intro-text-analysis
-UBC Research Commons workshop on the text analysis landscape from Voyant to NLTK. 
+# Introduction to Text Analysis form Voyant to NLTK
+
+### UBC Library Research Commons
+Link to workshop: https://ubc-library-rc.github.io/intro-text-analysis
