@@ -7,6 +7,9 @@ published: true
 ---
 # What is Text Analysis?
 
+![1.PNG]({{site.baseurl}}/content/1.PNG)
+
+
 **Corpus:** The source text that will be analyzed. It can be a single text (Love in the Times of Cholera) or a combination of texts (all of GarcÍa Marquez's books).
 
 **N-gram:** Looks for the repetition of a contiguous sequence of n (any number) of items from the source text.
