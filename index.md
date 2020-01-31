@@ -8,15 +8,15 @@ published: true
 
 ### **Objectives of Workshop**
 
-
+Text analysis can help researchers see and query their data in new ways through word frequency, patterns, and contexts.  This workshop will introduce participants to common tools and methods for programmatic text analysis and walk them through beginner and intermediate workflows and exercises using Voyant – a free, online software that creates visualizations of text - and the Python programming language tool called the Natural Language Toolkit (NLTK).  We have set up this workshop into two parts:
 
 Part 1
 
-how to use Voyant and get a grasp on what's available (how to use it)
-how to think differently about texts with tools such as Voyant (why use it)
+- how to use Voyant and get a grasp on what's available (how to use it)
+- how to think differently about texts with tools such as Voyant (why use it)
 
 Part 2
 
-Introduction to NLP Theory
-The NLTK Corpus (Tokenization, Lemmatization, and Stemming)
+- Introduction to NLP Theory
+- The NLTK Corpus (Tokenization, Lemmatization, and Stemming)
 
