@@ -19,7 +19,7 @@ Activity:
 - Let's use a text from Internet Archive
 - Moby Dick - [https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
 
-## Compare the copy-and-paste versus uploading a text document to Voyant
+### Compare the copy-and-paste versus uploading a text document to Voyant
 
 ### Creating a Corpus
 
