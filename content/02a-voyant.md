@@ -30,11 +30,11 @@ Activity:
 
 ### Exploring a Corpus
 
-Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by describing the tools that you see and how they can interact.
+- Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by describing the tools that you see and how they can interact.
 
 ### Default Skin
 
-At first you will see three tool panels along the top and two tool panels along the bottom:
+  At first you will see three tool panels along the top and two tool panels along the bottom:
 
 - Cirrus: a kind of word cloud showing the most frequent terms
 - Reader: an efficient corpus reader that fetches segments of text as you scroll
