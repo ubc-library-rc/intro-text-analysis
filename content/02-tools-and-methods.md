@@ -13,6 +13,8 @@ Computationally-driven text analysis is utilized in a variety of disciplines and
 
 Digital humanists usually perform this analysis with the help of algorithms developed by computer scientists, statisticians, and linguists. Depending on the individual researcher’s level of programming skill, they can make use of specialized text analysis libraries in the Python or R programming languages, or use out-of-the-box tools like MALLET and Paper Machines.
 
+![micah-boswell-00nHr1Lpq6w-unsplash.jpg]({{site.baseurl}}/content/micah-boswell-00nHr1Lpq6w-unsplash.jpg)
+
 In this workshop, we focus on two tools:
 
 - **Voyant Tools**
