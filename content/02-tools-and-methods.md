@@ -15,10 +15,10 @@ Digital humanists usually perform this analysis with the help of algorithms deve
 
 In this workshop, we focus on two tools:
 
-**Voyant Tools**
+- **Voyant Tools**
 
 Voyeur is a web-based text analysis environment. It is designed to be user-friendly, flexible and powerful.
 
-**Natural Language Toolkit (NLTK)**
+- **Natural Language Toolkit (NLTK)**
 
 NLTK is intended to support research and teaching in natural language processing, including empirical linguistics, cognitive science, artificial intelligence, information retrieval, and machine learning.  The NLTK has been used successfully as a teaching tool, as an individual study tool, and as a platform for prototyping and building research systems.
