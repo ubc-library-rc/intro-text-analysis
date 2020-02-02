@@ -12,6 +12,11 @@ published: true
 
 ## Terminology
 
+
+**Close Reading** In literary criticism, close reading is the careful, sustained interpretation of a brief passage of a text.  Close reading emphasizes the single and the particular over the general, effected by close attention to individual words, the syntax, the order in which the sentences unfold ideas, as well as formal structures.
+
+**Distant Reading** Distant reading refers to a professional reading method that relies heavily on computer programs. This strategy represents an attempt at utilizing big data analytics for the purposes of literary scholarship.
+
 **Corpus:** The source text that will be analyzed. It can be a single text (_Great Expectations_) or a combination of texts (all of Jane Austen's books).
 
 **N-gram:** Looks for the repetition of a contiguous sequence of n (any number) of items from the source text.
