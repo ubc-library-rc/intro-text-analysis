@@ -19,21 +19,25 @@ Activity:
 - Let's use a text from Internet Archive
 - Moby Dick - [https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
 
-Compare the copy-and-paste versus uploading a text document to Voyant
-Creating a Corpus
-open an existing corpus (click on the "Open" button under the text box)
-type or paste text into the main text box (this creates a corpus with one document)
-type or paste one or more URLs into the main text box (one URL per line)
-click the "Upload" button under the text box to use files from your compute
-Exploring a Corpus
+## Compare the copy-and-paste versus uploading a text document to Voyant
+
+### Creating a Corpus
+
+- open an existing corpus (click on the "Open" button under the text box)
+- type or paste text into the main text box (this creates a corpus with one document)
+- type or paste one or more URLs into the main text box (one URL per line)
+- click the "Upload" button under the text box to use files from your compute
+
+### Exploring a Corpus
+
 Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by describing the tools that you see and how they can interact.
-Default Skin
+
+### Default Skin
+
 At first you will see three tool panels along the top and two tool panels along the bottom:
-Cirrus: a kind of word cloud showing the most frequent terms
-Reader: an efficient corpus reader that fetches segments of text as you scroll
-Trends: a distribution graph showing terms across the corpus (or terms within a document)
-Summary: a tool that provides a simple, textual overview of the current corpus
-Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
 
-
-
+- Cirrus: a kind of word cloud showing the most frequent terms
+- Reader: an efficient corpus reader that fetches segments of text as you scroll
+- Trends: a distribution graph showing terms across the corpus (or terms within a document)
+- Summary: a tool that provides a simple, textual overview of the current corpus
+- Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
