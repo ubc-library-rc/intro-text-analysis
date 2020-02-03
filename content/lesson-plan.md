@@ -4,6 +4,7 @@ nav_order: 2
 title: Outline
 has_children: true
 has_toc: false
+published: true
 ---
 ## Goal of this workshop
 
@@ -12,7 +13,7 @@ This workshop is intended to orient complete beginners to text analysis and prov
 ## Schedule
 
 | 0:00 | Setup and orientation |
-| 0:00  | What is text analysis? |     
-| 0:00  | Tools and Methods |  
-| 0:00 | Activities |   
-| 0:00 | Next steps and discussion |
+| 0:15  | What is text analysis? |     
+| 0:30  | Tools and Methods |  
+| 0:45 | Activities |   
+| 1:15 | Next steps and discussion |
