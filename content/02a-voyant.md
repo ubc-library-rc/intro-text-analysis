@@ -25,7 +25,6 @@ Activity #1:
 
 ![]({{site.baseurl}}/content/voyant.PNG)
 
- 
 
 ### Creating a Corpus
 
