@@ -14,15 +14,16 @@ In this part, we will learn about:
 - how to begin exploring a corpus in Voyant (the default tools and their interactions)
 - digging deeper into Voyant functionality (power searches, working with grids, additional tools)
 
-Activity:
+Activity #1:
+
+### Compare the copy-and-paste versus uploading a text document to Voyant
 
 - Let's use a text from Internet Archive
 - Moby Dick - [https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
 
 ![]({{site.baseurl}}/content/voyant.PNG)
 
-
-### Compare the copy-and-paste versus uploading a text document to Voyant
+ 
 
 ### Creating a Corpus
 
