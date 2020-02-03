@@ -20,6 +20,8 @@ Activity #1:
 
 - Let's use a text from Internet Archive
 - Moby Dick - [https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
+- Download a .txt file of _Moby Dick_
+- Copy and paste the entire _Moby Dick_ text from the html 
 
 ![]({{site.baseurl}}/content/voyant.PNG)
 
