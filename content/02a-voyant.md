@@ -49,6 +49,6 @@ Activity #1:
 
 ## Examples of Voyant
 
-"Now Analyze That! Comparing the Discourse on Race." http://hermeneuti.ca/now-analyze-that
+- "Now Analyze That! Comparing the Discourse on Race." [http://hermeneuti.ca/now-analyze-that](Now Analyze That! Comparing the Discourse on Race)
 
 
