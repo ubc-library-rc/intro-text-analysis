@@ -35,7 +35,7 @@ Activity #1:
 
 ### Exploring a Corpus
 
-- Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by describing the tools that you see and how they can interact.
+- Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=be22b2b7a30b32b09fbd0ed7aa2e62d6).
 
 ### Default Skin
 
@@ -49,4 +49,4 @@ Activity #1:
 
 ## Examples of Voyant
 
-- "Now Analyze That! Comparing the Discourse on Race." [(http://hermeneuti.ca/now-analyze-that)](http://hermeneuti.ca/now-analyze-that)
+- "Now Analyze That! Comparing the Discourse on Race." [http://hermeneuti.ca/now-analyze-that](http://hermeneuti.ca/now-analyze-that)
