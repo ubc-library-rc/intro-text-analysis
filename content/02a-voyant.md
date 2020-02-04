@@ -46,3 +46,9 @@ Activity #1:
 - Trends: a distribution graph showing terms across the corpus (or terms within a document)
 - Summary: a tool that provides a simple, textual overview of the current corpus
 - Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
+
+## Examples of Voyant
+
+"Now Analyze That! Comparing the Discourse on Race." http://hermeneuti.ca/now-analyze-that
+
+
