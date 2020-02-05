@@ -37,7 +37,7 @@ Activity #1:
 
 - Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=be22b2b7a30b32b09fbd0ed7aa2e62d6).
 
-### Default Skin
+### For this Session: 
 
   At first you will see three tool panels along the top and two tool panels along the bottom:
 
