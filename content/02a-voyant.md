@@ -41,11 +41,11 @@ Activity #1:
 
   At first you will see three tool panels along the top and two tool panels along the bottom:
 
-- Cirrus: a kind of word cloud showing the most frequent terms
-- Reader: an efficient corpus reader that fetches segments of text as you scroll
-- Trends: a distribution graph showing terms across the corpus (or terms within a document)
-- Summary: a tool that provides a simple, textual overview of the current corpus
-- Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
+- [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus): a kind of word cloud showing the most frequent terms
+- [Text Reader](https://voyant-tools.org/docs/#!/guide/reader): an efficient corpus reader that fetches segments of text as you scroll
+- [Trends](https://voyant-tools.org/docs/#!/guide/trends): a distribution graph showing terms across the corpus (or terms within a document)
+- [Summary](https://voyant-tools.org/docs/#!/guide/summary): a tool that provides a simple, textual overview of the current corpus
+- [Contexts](https://voyant-tools.org/docs/#!/guide/contexts): a concordance that shows each occurrence of a keyword with a bit of surrounding context
 
 ## Examples of Voyant
 
