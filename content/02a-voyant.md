@@ -14,7 +14,7 @@ In this part, we will learn about:
 - how to begin exploring a corpus in Voyant (the default tools and their interactions)
 - digging deeper into Voyant functionality (power searches, working with grids, additional tools)
 
-Activity #1:
+**Activity #1:**
 
 ### Compare the copy-and-paste versus uploading a text document to Voyant
 
