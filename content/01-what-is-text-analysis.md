@@ -9,6 +9,7 @@ published: true
 
 ![1.PNG]({{site.baseurl}}/content/1.PNG)
 
+> In the slippage between our literary notion of a text and the computer's literal processing lie the disappointment and the possibility of text analysis.  Computers cannot understand a text for us.  They can, however, do things that may surprise us.  [_Hermeneutica_, Geoffrey Rockwell and Stefan Sinclair](http://hermeneuti.ca/).  
 
 ## Terminology
 
