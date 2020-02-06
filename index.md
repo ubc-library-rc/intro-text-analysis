@@ -13,7 +13,6 @@ Text analysis can help researchers see and query their data in new ways through 
 
 ![machine_learning.png]({{site.baseurl}}/machine_learning.png)
 
-
 We have set up this workshop into two parts:
 
 Part 1
@@ -30,6 +29,6 @@ Part 2
 - For Python, please login into UBC Syzygy - [https://ubc.syzygy.ca/](https://ubc.syzygy.ca/)
 
 
-> In the slippage between our literary notion of a text and the computer's literal processing lie the disappointment and the possibility of text analysis.  Computers cannot understand a text for us.  They can, however, do things that may surprise us.  [_Hermeneutica_, Geoffrey Rockwell and Stefan Sinclair](http://hermeneuti.ca/).  
+
 
 
