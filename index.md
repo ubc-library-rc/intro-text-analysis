@@ -13,6 +13,8 @@ Text analysis can help researchers see and query their data in new ways through 
 
 ![machine_learning.png]({{site.baseurl}}/machine_learning.png)
 
+(Source: [xkcd](https://xkcd.com/))
+
 We have set up this workshop into two parts:
 
 Part 1
@@ -27,8 +29,3 @@ Part 2
 - Introduction to NLP Theory
 - The NLTK Corpus (Tokenization, Lemmatization, and Stemming)
 - For Python, please login into UBC Syzygy - [https://ubc.syzygy.ca/](https://ubc.syzygy.ca/)
-
-
-
-
-
