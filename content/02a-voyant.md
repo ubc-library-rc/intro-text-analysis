@@ -24,7 +24,7 @@ In this part, we will learn about:
 - Add [_Jane Eyre_](https://www.gutenberg.org/files/1260/)
 ![]({{site.baseurl}}/content/voyant.PNG)
 
-- Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=be22b2b7a30b32b09fbd0ed7aa2e62d6).
+- Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=ee5cd6f93a86c993596bffdf88a89cb9).
 
 
 ## Examples of Voyant
