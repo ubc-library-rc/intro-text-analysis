@@ -21,7 +21,7 @@ published: true
 
 At first you will see three tool panels along the top and two tool panels along the bottom:
 
-## Word Cloud (Cirrus, Terms, Links) [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus): a kind of word cloud showing the most frequent terms
+### Word Cloud (Cirrus, Terms, Links) 
 
  1. What words are most prominent? How do you know?
  2. Spend some time exploring:
@@ -32,8 +32,8 @@ At first you will see three tool panels along the top and two tool panels along 
   -  Find the “Options” button and edit or view the list of “Stopwords.” Does this change your results?
 
  3. What do we learn about the text from this Word Cloud?
+![voyant-austen-numbered.png]({{site.baseurl}}/content/voyant-austen-numbered.png)
 
-- [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus): a kind of word cloud showing the most frequent terms
 - [Text Reader](https://voyant-tools.org/docs/#!/guide/reader): an efficient corpus reader that fetches segments of text as you scroll
 - [Trends](https://voyant-tools.org/docs/#!/guide/trends): a distribution graph showing terms across the corpus (or terms within a document)
 - [Summary](https://voyant-tools.org/docs/#!/guide/summary): a tool that provides a simple, textual overview of the current corpus
