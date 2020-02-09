@@ -18,10 +18,10 @@ In this part, we will learn about:
 
 ### Compare the copy-and-paste versus uploading a text document to Voyant
 
-- Let's use a text from Project Gutenberg
-- Moby Dick - [[https://www.gutenberg.org/files/2701/2701-0.txt](https://www.gutenberg.org/files/2701/2701-0.txt)](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
-- Choice #1 - Download a [.txt file](https://www.gutenberg.org/files/2701/2701-0.txt) of _Moby Dick_
-- Choice #2 - Copy and paste the URL of _Moby Dick_ text directly to Voyant
+- Let's use a text from Internet Archive
+- Moby Dick - [https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
+- Step #1 - Download a [.txt file](https://www.gutenberg.org/files/1260/) of _Moby Dick_
+- Step #2 - Copy and paste the entire _Moby Dick_ text from the html 
 
 ![]({{site.baseurl}}/content/voyant.PNG)
 
