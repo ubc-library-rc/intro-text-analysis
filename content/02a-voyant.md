@@ -20,7 +20,7 @@ In this part, we will learn about:
 - Moby Dick - [https://www.gutenberg.org/files/2701/](https://www.gutenberg.org/files/2701/)
 - Copy and paste the URL of _Moby Dick_ [.txt file](https://www.gutenberg.org/files/2701/) of _Moby Dick_
 
-- Now add [_Jane Eyre_](https://www.gutenberg.org/files/1260/)
+- Now add [_Jane Eyre_](https://www.gutenberg.org/files/1260/1260.txt/)
 ![]({{site.baseurl}}/content/voyant.PNG)
 
 - Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=ee5cd6f93a86c993596bffdf88a89cb9).
