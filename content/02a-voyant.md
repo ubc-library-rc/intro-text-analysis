@@ -23,6 +23,7 @@ In this part, we will learn about:
 - Choice #1 - Download a [.txt file](https://github.com/ubc-library-rc/intro-text-analysis/blob/master/content/moby_dick.txt) of _Moby Dick_
 - Choice #2 - Copy and paste the entire _Moby Dick_ text from the html 
 
+- Try repeating with [_Jane Eyre_](https://www.gutenberg.org/files/1260/)
 ![]({{site.baseurl}}/content/voyant.PNG)
 
 
