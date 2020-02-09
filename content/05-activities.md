@@ -18,9 +18,20 @@ published: true
 
 - Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=be22b2b7a30b32b09fbd0ed7aa2e62d6).
 
-### For this Session: 
 
-  At first you will see three tool panels along the top and two tool panels along the bottom:
+At first you will see three tool panels along the top and two tool panels along the bottom:
+
+## Word Cloud (Cirrus, Terms, Links) [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus): a kind of word cloud showing the most frequent terms
+
+ 1. What words are most prominent? How do you know?
+ 2. Spend some time exploring:
+
+  -  What happens when you hover your mouse over different parts of the Cirrus widget?
+  -  What happens when you click on a word?
+  -  What hidden buttons can you find?
+  -  Find the “Options” button and edit or view the list of “Stopwords.” Does this change your results?
+
+ 3. What do we learn about the text from this Word Cloud?
 
 - [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus): a kind of word cloud showing the most frequent terms
 - [Text Reader](https://voyant-tools.org/docs/#!/guide/reader): an efficient corpus reader that fetches segments of text as you scroll
