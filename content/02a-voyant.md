@@ -14,7 +14,14 @@ In this part, we will learn about:
 - how to begin exploring a corpus in Voyant (the default tools and their interactions)
 - digging deeper into Voyant functionality (power searches, working with grids, additional tools)
 
-**Activity #1:**
+### Exploring a Corpus
+
+- Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=be22b2b7a30b32b09fbd0ed7aa2e62d6).
+
+- basic information about Voyant (essential background about the tool and its design)
+- how to create (or use) a Voyant corpus (especially with URLs and file uploads)
+- how to begin exploring a corpus in Voyant (the default tools and their interactions)
+- digging deeper into Voyant functionality (power searches, working with grids, additional tools)
 
 ### Compare the copy-and-paste versus uploading a text document to Voyant
 
