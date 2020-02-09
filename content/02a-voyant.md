@@ -16,9 +16,9 @@ In this part, we will learn about:
 
 ### Uploading a text document to Voyant
 
-- Let's use a text from Internet Archive
+- Let's use a text from Project Gutenberg.  
 - Moby Dick - [https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up](https://archive.org/details/mobydickorwhale01melvuoft/page/n8/mode/2up)
-- Choice #1 - Download a [.txt file](https://github.com/ubc-library-rc/intro-text-analysis/blob/master/content/moby_dick.txt) of _Moby Dick_
+- Choice #1 - Download a [.txt file](https://www.gutenberg.org/files/2701/) of _Moby Dick_
 - Choice #2 - Copy and paste the entire _Moby Dick_ text from the html 
 
 - Try repeating with [_Jane Eyre_](https://www.gutenberg.org/files/1260/)
