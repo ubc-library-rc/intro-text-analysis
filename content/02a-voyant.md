@@ -19,9 +19,9 @@ In this part, we will learn about:
 - Let's use a text from Project Gutenberg.  
 - Moby Dick - [https://www.gutenberg.org/files/2701/](https://www.gutenberg.org/files/2701/)
 - Choice #1 - Download a [.txt file](https://www.gutenberg.org/files/2701/) of _Moby Dick_
-- Choice #2 - Copy and paste the entire _Moby Dick_ text from the html 
+- Choice #2 - Copy and paste the URL of _Moby Dick_ 
 
-- Try repeating with [_Jane Eyre_](https://www.gutenberg.org/files/1260/)
+- Add [_Jane Eyre_](https://www.gutenberg.org/files/1260/)
 ![]({{site.baseurl}}/content/voyant.PNG)
 
 - Once you create a corpus you will arrive at the default "skin" or arrangement of tools. There is a lot happening at once, but we'll start by [describing the tools that you see and how they can interact](https://voyant-tools.org/?corpus=be22b2b7a30b32b09fbd0ed7aa2e62d6).
