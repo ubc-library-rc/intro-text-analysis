@@ -28,6 +28,13 @@ convey?
  - What does the graph tell us about the story?
  - Bonus Question: What is the difference between relative and raw frequencies and how do you find that information?
 
-# Activities for nltk
+# Activities for NLTK
 
-1. 
+1. Select any paragraph of text and:
+  a. tokenize by sentence
+  b. tokenize by word
+  c. identify all stop words
+
+2. Plot a frequency distribution of the words in your selected text. Change the number of words included in the distribution.
+
+3. Explore the Reuters corpus. Identify the five most frequently occurring categories?
