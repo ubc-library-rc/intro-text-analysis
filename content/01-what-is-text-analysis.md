@@ -16,7 +16,10 @@ published: true
 
 **Close Reading** In literary criticism, close reading is the careful, sustained interpretation of a brief passage of a text.  Close reading emphasizes the single and the particular over the general, effected by close attention to individual words, the syntax, the order in which the sentences unfold ideas, as well as formal structures.
 
-**Distant Reading** Distant reading refers to a professional reading method that relies heavily on computer programs. This strategy represents an attempt at utilizing big data analytics for the purposes of literary scholarship.
+**Franco Moretti** Moretti and his followers take the longue durée view of literature – looking at the temporal trends in dozens or even hundreds of years of literary history.
+
+**Distant Reading** Distant reading is opposed to close reading: a traditional approach in literary studies when a critic closely examines a separate text, traces all the possible intertextual connections. Distant reading has the opposite goal: the scholar should "step back" from an individual text to see a larger picture: for example, the history of a genre during a century or the evolution of a particular artistic device over many decades
+
 
 **Corpus:** The source text that will be analyzed. It can be a single text (_Great Expectations_) or a combination of texts (all of Jane Austen's books).
 
