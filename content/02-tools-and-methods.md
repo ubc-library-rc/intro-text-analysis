@@ -15,12 +15,4 @@ Depending on your level of programming skill, you can make use of specialized te
 
 ![micah-boswell-00nHr1Lpq6w-unsplash.jpg]({{site.baseurl}}/content/micah-boswell-00nHr1Lpq6w-unsplash.jpg)
 
-In this workshop, we focus on the following two tools:
-
-- **Voyant Tools**
-
-Voyeur is a web-based text analysis environment. It is designed to be user-friendly, flexible and powerful.
-
-- **Natural Language Toolkit (NLTK)**
-
-NLTK is intended to support research and teaching in natural language processing, including empirical linguistics, cognitive science, artificial intelligence, information retrieval, and machine learning.  The NLTK has been used successfully as a teaching tool, as an individual study tool, and as a platform for prototyping and building research systems.
+ 
