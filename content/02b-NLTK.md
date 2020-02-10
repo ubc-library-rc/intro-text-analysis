@@ -12,7 +12,9 @@ NLTK is a set of tools that, similar to Voyant, let you quickly accomplish some 
 
 For this section of the workshop we will be working in UBC Syszgy.
 
-1. Please log in to [UBC Syzygy here](https://ubc.syzygy.ca/). Click on the red house and log in via UBC CWL.
+You can [follow along here](https://github.com/ubc-library-rc/intro-text-analysis/blob/master/content/NLTK-outputs.ipynb) and also try running each command yourself by copy pasting into your own Jupyter Notebook in UBC Syzygy.
+
+1. To follow along log in to [UBC Syzygy here](https://ubc.syzygy.ca/). Click on the red house and log in via UBC CWL.
 ![Log in to Syzygy](syzygy-login.png)
 
 2. In the upper right hand side of the page select "New" and then "Python 3" from the dropdown.
