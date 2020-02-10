@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup
+title: Introduction
 nav_order: 1
 published: true
 ---
