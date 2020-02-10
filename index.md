@@ -17,15 +17,13 @@ Text analysis can help researchers see and query their data in new ways through 
 
 We have set up this workshop into two parts:
 
-Part 1
+In this workshop, we focus on the following two tools:
 
-- how to use Voyant and get a grasp on what's available (how to use it)
-- how to think differently about texts with tools such as Voyant (why use it)
-- There is a hosted version of Voyant Tools ([https://voyant-tools.org](https://voyant-tools.org))
-but we very strongly encourage anyone following along to download and launch the desktop version. 
+- **Voyant Tools**
 
-Part 2
+Voyeur is a web-based text analysis environment. It is designed to be user-friendly, flexible and powerful.
 
-- Introduction to NLP Theory
-- The NLTK Corpus (Tokenization, Lemmatization, and Stemming)
-- For Python, please login into UBC Syzygy - [https://ubc.syzygy.ca/](https://ubc.syzygy.ca/)
+- **Natural Language Toolkit (NLTK)**
+
+NLTK is intended to support research and teaching in natural language processing, including empirical linguistics, cognitive science, artificial intelligence, information retrieval, and machine learning.  The NLTK has been used successfully as a teaching tool, as an individual study tool, and as a platform for prototyping and building research systems.
+
