@@ -15,8 +15,6 @@ Text analysis can help researchers see and query their data in new ways through 
 
 (Source: [xkcd](https://xkcd.com/))
 
-We have set up this workshop into two parts:
-
 In this workshop, we focus on the following two tools:
 
 - **Voyant Tools**
