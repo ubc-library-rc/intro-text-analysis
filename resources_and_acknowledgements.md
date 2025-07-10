@@ -5,6 +5,11 @@ nav_order: 20
 ---
 ## Resources
 
+* Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+  * [NLTK book (first edition freely available online)](http://www.nltk.org/book_1ed/)
+
+## Library Resources
+
 - [Book a consultation](https://researchcommons.library.ubc.ca/consultation-requests/)
 - [View upcoming workshops](https://researchcommons.library.ubc.ca/workshops/)
 - [Guides for all sorts of research and analysis](https://guides.library.ubc.ca/menu)
